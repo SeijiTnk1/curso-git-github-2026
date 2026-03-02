@@ -3,3 +3,4 @@ cd  -> Move entre diretórios
 pwd -> Mostra diretórios de trabalho
 cat -> Exibe conteúdo do arquivo
 rm  -> Revome arquivo ou diretório
+rm -rf -> Revome de forma recursiva e forçada todos diretórios
