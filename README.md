@@ -10,6 +10,5 @@ Confira tudo o que temos no nosso Youtube. É Gratis! Segue o link:
 
 [curso git 2026](https://youtube.com/@teomewhy)
 
-
-
-
+se liga no nosso canal do youtube:
+[teomewhy](https://teomewhy.org/schedule)
